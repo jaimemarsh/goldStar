@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/goldStar/static/css/main.42287498.css",
+    "main.js": "/goldStar/static/js/main.5921140c.js",
+    "static/media/12.png": "/goldStar/static/media/12.d541dc82bc096674ab0e.png",
+    "static/media/1.png": "/goldStar/static/media/1.8c818dea46cbeae1675c.png",
+    "static/media/star.png": "/goldStar/static/media/star.ec2cdace0c911af06533.png",
+    "static/media/10.png": "/goldStar/static/media/10.5298dfc3c8c49a78be78.png",
+    "static/media/2.png": "/goldStar/static/media/2.04b5bfcf619a8d008b6e.png",
+    "static/media/11.png": "/goldStar/static/media/11.75be196c8b337575e3b8.png",
+    "static/media/5.png": "/goldStar/static/media/5.43e341448e6c3b160719.png",
+    "static/media/7.png": "/goldStar/static/media/7.6bd14d88b1b004ef1aab.png",
+    "static/media/goldstarslogo.png": "/goldStar/static/media/goldstarslogo.fee94b8c8ee772adea86.png",
+    "static/media/8.png": "/goldStar/static/media/8.3663b04f43fc9d094fb1.png",
+    "static/media/9.png": "/goldStar/static/media/9.d67cdab0b4daaf9bfe5e.png",
+    "static/media/4.png": "/goldStar/static/media/4.46502cceaadc921684c9.png",
+    "static/media/6.png": "/goldStar/static/media/6.3f4aa9aa1ce442cb291f.png",
+    "static/media/3.png": "/goldStar/static/media/3.65b92bd2bef73b5b8a16.png",
+    "static/media/dad.png": "/goldStar/static/media/dad.bde8e5a15c12b6728996.png",
+    "static/media/mail.png": "/goldStar/static/media/mail.33d0e14408acd019964e.png",
+    "static/media/web.png": "/goldStar/static/media/web.9c7962ba859bf4e5d258.png",
+    "index.html": "/goldStar/index.html",
+    "main.42287498.css.map": "/goldStar/static/css/main.42287498.css.map",
+    "main.5921140c.js.map": "/goldStar/static/js/main.5921140c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42287498.css",
+    "static/js/main.5921140c.js"
+  ]
+}
