@@ -1,0 +1,18 @@
+.contactUs{
+    font-size: 80px;
+}
+
+@media (max-width: 900px) {
+    .info {
+        display: none;
+    }
+
+}
+
+
+
+@media (max-width: 480px) {
+    .info {
+        display: none;
+    }
+}

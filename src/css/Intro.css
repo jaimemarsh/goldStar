@@ -1,0 +1,27 @@
+.welcome {
+  display: none;
+}
+
+.phone {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .welcome {
+    display: block;
+  }
+
+  .phone {
+    display: block;
+  }
+}
+
+@media (max-width: 480px) {
+  .welcome {
+    display: block;
+  }
+
+  .phone {
+    display: block;
+  }
+}

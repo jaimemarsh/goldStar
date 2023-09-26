@@ -1,0 +1,11 @@
+.hover-effect:hover {
+    transform: scale(1.05); 
+    font-weight: bold;
+    color: white; 
+    transition: transform 0.3s, color 0.3s; 
+  }
+  
+  .hover-effect:hover img {
+    filter: invert(100%);
+    transition: filter 0.3s;
+}
