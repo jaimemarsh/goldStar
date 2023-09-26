@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/goldStar/static/css/main.42287498.css",
-    "main.js": "/goldStar/static/js/main.5921140c.js",
+    "main.js": "/goldStar/static/js/main.b7ef690f.js",
     "static/media/12.png": "/goldStar/static/media/12.d541dc82bc096674ab0e.png",
     "static/media/1.png": "/goldStar/static/media/1.8c818dea46cbeae1675c.png",
     "static/media/star.png": "/goldStar/static/media/star.ec2cdace0c911af06533.png",
@@ -21,10 +21,10 @@
     "static/media/web.png": "/goldStar/static/media/web.9c7962ba859bf4e5d258.png",
     "index.html": "/goldStar/index.html",
     "main.42287498.css.map": "/goldStar/static/css/main.42287498.css.map",
-    "main.5921140c.js.map": "/goldStar/static/js/main.5921140c.js.map"
+    "main.b7ef690f.js.map": "/goldStar/static/js/main.b7ef690f.js.map"
   },
   "entrypoints": [
     "static/css/main.42287498.css",
-    "static/js/main.5921140c.js"
+    "static/js/main.b7ef690f.js"
   ]
 }
